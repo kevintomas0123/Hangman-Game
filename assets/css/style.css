@@ -1,0 +1,92 @@
+body{
+    background-color: royalblue;
+}
+
+
+.logo{
+    position: relative;
+    left:200px;
+    width:60%;
+    height:60%;
+}
+
+#goku {
+    display: inline-block;
+    margin: 0;
+    float:left;
+
+}
+
+
+#goku img {
+    width:120%;
+    height:150%;
+    margin:0;
+    display: inline-block;
+    position: relative;
+    left:-30px;
+    top:50px;
+}
+
+#shenron{
+display: inline-block;
+margin:0;
+border:40px black double;
+background-color: darkorange;
+}
+
+#shenron img{
+    width:150%;
+    position: relative;
+    right:150px;
+    bottom:100px;
+}
+#vegeta{
+    
+    display: inline-block;
+    margin: 0;
+    float: right;
+}
+
+
+#vegeta img{
+    width:120%;
+    height:150%;
+    margin:0;
+    display: inline-block;
+    top:300px;
+   }
+
+   .instructions{
+  
+    visibility: hidden;
+   }
+
+   .game{
+       margin: 0;
+       padding: 0;
+       position: relative;
+       left:200px;
+       bottom:100px;
+   }
+
+   .stats{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left:100px;
+    bottom:100px;
+   }
+
+   .guesses{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left:100px;
+    bottom:100px;
+
+   }
+   
+
+
+
